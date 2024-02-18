@@ -42,9 +42,10 @@ body {
 }
 
 .foto-perfil {
-    width: clamp(150px, 50vw, 300px);
+    --tamanho: clamp(150px, 50vw, 300px);
     border-radius: 50%;
     border: 10px solid var(--bg);
+    object-fit: cover;
 }
 
 .hero__titulo {
