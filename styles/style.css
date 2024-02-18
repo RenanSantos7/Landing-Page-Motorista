@@ -3,8 +3,7 @@
 :root {
     --bg: #fafafa;
     --texto: #2b2b2b;
-    --cor-primaria: #f1a409;
-    --cor-secundaria: #ffae0a;
+    --cor-primaria: #ffae0a;
 }
 
 @media screen and (prefers-color-scheme: dark) {
